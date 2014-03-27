@@ -1,0 +1,15 @@
+	//2013-10-16
+	//Testujemy klasê statyczn¹
+
+	int Tab[6];
+	
+	Tab[0] = 11;
+	Tab[1] = 7;
+	Tab[2] = 71;
+	Tab[3] = -2;
+	Tab[4] = 0;
+	Tab[5] = -40;
+	
+	//wywo³ujemy statyczn¹ metodê sortuj¹c¹
+	//
+	CSort::BubleSort(Tab, 5);

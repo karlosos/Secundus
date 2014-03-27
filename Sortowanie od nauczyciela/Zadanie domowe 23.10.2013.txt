@@ -1,0 +1,11 @@
+W klasie CSort dopisz przynajmniej jeszcze
+jedn¹ metodê statyczn¹, która sortuje tablicê
+np:
+	- przez wstawianie
+	- Quick Sort
+	- inne...
+
+Rozwi¹zanie przedstaw na ochotnika
+w dniu 23 paŸdziernika. W kompilatorze
+oraz w funkcji main(), zg³aszaj¹c to
+nauczycieliwi
