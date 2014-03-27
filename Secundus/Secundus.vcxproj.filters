@@ -138,6 +138,9 @@
     <ClCompile Include="Lekcja 7 - Template.cpp">
       <Filter>Source Files\Lekcje</Filter>
     </ClCompile>
+    <ClCompile Include="pointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CBeben.h">
