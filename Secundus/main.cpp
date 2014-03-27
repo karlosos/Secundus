@@ -63,7 +63,7 @@ int main ()
 	// Zadanie 2
 	int tab[10];
 	int * point = tab;
-	for (int i; i<10; i++) 
+	for (int i = 0; i<10; i++) 
 	{
 
 	}
