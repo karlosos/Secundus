@@ -1,7 +1,10 @@
 /*
-int main() {
-	// napisz metode ktora sprawdza czy zadany wyraz jest palindromem
+#include <iostream>;
 
+int main () {
+
+	//ZADANIE
+	//PALINDROM
 
 	char *palindrom = "kajak";
 	char *pomocniczypal = palindrom;
@@ -11,6 +14,7 @@ int main() {
 	while (*pomocniczypal++) {
 		dlugoscpal++;
 	}
+
 	char *reverted = new char[6];
 	reverted[6] = EOF;
 
@@ -30,4 +34,5 @@ int main() {
 	int dsasd = 0;
 
 }
+
 */
