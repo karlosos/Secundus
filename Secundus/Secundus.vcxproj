@@ -98,11 +98,15 @@
     <ClCompile Include="Lekca 5 - CUtilities.cpp" />
     <ClCompile Include="Lekcja 7 - Template.cpp" />
     <ClCompile Include="Lekcja 6 - Klasy statyczne.cpp" />
+    <ClCompile Include="Zaliczenie\main.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie8.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie7.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie6.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie5.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie4.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie3.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie2.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie 1.cpp" />
-    <ClCompile Include="Zadanie lek - Palindrom.cpp" />
-    <ClCompile Include="Zadanie lek - Palindrom.cpp" />
     <ClCompile Include="Lekcja 8 - Wskaźniki.cpp" />
     <ClCompile Include="Zadanie dom 3.cpp" />
     <ClCompile Include="Zadanie dom 2.cpp" />
