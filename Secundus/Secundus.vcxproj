@@ -98,10 +98,12 @@
     <ClCompile Include="Lekca 5 - CUtilities.cpp" />
     <ClCompile Include="Lekcja 7 - Template.cpp" />
     <ClCompile Include="Lekcja 6 - Klasy statyczne.cpp" />
-    <ClCompile Include="palindrom.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="pointers2.cpp" />
-    <ClCompile Include="pointers.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie3.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie2.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie 1.cpp" />
+    <ClCompile Include="Zadanie lek - Palindrom.cpp" />
+    <ClCompile Include="Zadanie lek - Palindrom.cpp" />
+    <ClCompile Include="Lekcja 8 - Wskaźniki.cpp" />
     <ClCompile Include="Zadanie dom 3.cpp" />
     <ClCompile Include="Zadanie dom 2.cpp" />
     <ClCompile Include="Zadanie dom 1.cpp" />
@@ -125,6 +127,7 @@
     <ClInclude Include="CUtilities.h" />
     <ClInclude Include="CVehicle.h" />
     <ClInclude Include="MyFunction.h" />
+    <ClInclude Include="Zaliczenie\zadanie3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -52,6 +52,9 @@
     <Filter Include="Header Files\Klasy\Inne klasy\CBeben">
       <UniqueIdentifier>{a615ca93-3209-4339-a4ab-dada7d75603c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Zadania zaliczenie">
+      <UniqueIdentifier>{f30d0af6-8f73-46a2-b3ae-762fe9833aff}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lekcja 1 - Klasy.cpp">
@@ -96,56 +99,62 @@
     <ClCompile Include="CTermos.cpp">
       <Filter>Header Files\Klasy\CTermos</Filter>
     </ClCompile>
-    <ClCompile Include="CSuperSejf.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CSuperVehicle.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CVehicle.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lekcja 4 - Dziedziczenie.cpp">
       <Filter>Source Files\Lekcje</Filter>
-    </ClCompile>
-    <ClCompile Include="CEnemy.cpp">
-      <Filter>Header Files</Filter>
     </ClCompile>
     <ClCompile Include="Zadanie dom 3.cpp">
       <Filter>Source Files\Zadania domowe</Filter>
     </ClCompile>
-    <ClCompile Include="CBoss.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lekca 5 - CUtilities.cpp">
       <Filter>Source Files\Lekcje</Filter>
-    </ClCompile>
-    <ClCompile Include="CUtilities.cpp">
-      <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CSort.cpp">
-      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Lekcja 6 - Klasy statyczne.cpp">
       <Filter>Source Files\Lekcje</Filter>
     </ClCompile>
-    <ClCompile Include="CPointer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lekcja 7 - Template.cpp">
       <Filter>Source Files\Lekcje</Filter>
     </ClCompile>
-    <ClCompile Include="pointers.cpp">
+    <ClCompile Include="CBoss.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemy.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CPointer.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CSort.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CSuperSejf.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CSuperVehicle.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CUtilities.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="CVehicle.cpp">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClCompile>
+    <ClCompile Include="Zadanie lek - Palindrom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pointers2.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Zadanie lek - Palindrom.cpp">
+      <Filter>Source Files\Zadania domowe</Filter>
     </ClCompile>
-    <ClCompile Include="palindrom.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Lekcja 8 - Wskaźniki.cpp">
+      <Filter>Source Files\Lekcje</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Zaliczenie\Zadanie 1.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie2.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie3.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -176,32 +185,35 @@
     <ClInclude Include="CTermos.h">
       <Filter>Header Files\Klasy\CTermos</Filter>
     </ClInclude>
-    <ClInclude Include="CSuperSejf.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CSuperVehicle.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="CVehicle.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClInclude>
     <ClInclude Include="CBoss.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClInclude>
     <ClInclude Include="CEnemy.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClInclude>
-    <ClInclude Include="CUtilities.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="CPointer.h">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClInclude>
     <ClInclude Include="CSort.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="CSuperSejf.h">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="CSuperVehicle.h">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
+    </ClInclude>
+    <ClInclude Include="CUtilities.h">
+      <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClInclude>
     <ClInclude Include="MyFunction.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CPointer.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Zaliczenie\zadanie3.h">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
