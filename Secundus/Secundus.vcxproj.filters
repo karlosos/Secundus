@@ -138,9 +138,6 @@
     <ClCompile Include="CVehicle.cpp">
       <Filter>Header Files\Klasy\Inne klasy</Filter>
     </ClCompile>
-    <ClCompile Include="Zadanie lek - Palindrom.cpp">
-      <Filter>Source Files\Zadania domowe</Filter>
-    </ClCompile>
     <ClCompile Include="Lekcja 8 - Wskaźniki.cpp">
       <Filter>Source Files\Lekcje</Filter>
     </ClCompile>
@@ -162,14 +159,35 @@
     <ClCompile Include="Zaliczenie\Zadanie4.cpp">
       <Filter>Source Files\Zadania zaliczenie</Filter>
     </ClCompile>
-    <ClCompile Include="Zaliczenie\Zadanie7.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Zaliczenie\Zadanie8.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Zadania zaliczenie</Filter>
     </ClCompile>
-    <ClCompile Include="Zaliczenie\main.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Zaliczenie\Zadanie7.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie9.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie10.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie16.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie11.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie12.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie13.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie14.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaliczenie\Zadanie15.cpp">
+      <Filter>Source Files\Zadania zaliczenie</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

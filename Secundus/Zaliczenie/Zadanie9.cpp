@@ -9,8 +9,9 @@ int main()
 	std::string tekst;
 	std::cout << "Podaj tekst: ";
 	std::cin >> tekst;
-	int tab[122];
-	for (int i=0; i<122; i++)
+
+	int tab[123];
+	for (int i=0; i<123; i++)
 	{
 		tab[i] = 0;
 	}
@@ -34,33 +35,14 @@ int main()
 		}		
 	}
 
-	
-int A = tab[65];
-int B = tab[66];
-int C = tab[67];
-int D = tab[68];
-int E = tab[69];
-int F = tab[70];
-int G = tab[71];
-int H = tab[72];
-int I = tab[73];
-int J = tab[74];
-int K = tab[75];
-int L = tab[76];
-int M = tab[77];
-int N = tab[78];
-int O = tab[79];
-int P = tab[80];
-int Q = tab[81];
-int R = tab[82];
-int S = tab[83];
-int T = tab[84];
-int U = tab[85];
-int V = tab[86];
-int W = tab[87];
-int X = tab[88];
-int Y = tab[89];
-int Z = tab[90];
+	for (int i=0; i<123; i++)
+	{
+		if (tab[i]>0) 
+		{
+			std::cout << "Litera " << (char) i << " wystapila " << tab[i] << " razy." << std::endl; 
+		}
+	}
 
+	std::system("pause");
 	return 0;
 }

@@ -98,7 +98,14 @@
     <ClCompile Include="Lekca 5 - CUtilities.cpp" />
     <ClCompile Include="Lekcja 7 - Template.cpp" />
     <ClCompile Include="Lekcja 6 - Klasy statyczne.cpp" />
-    <ClCompile Include="Zaliczenie\main.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie16.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie15.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie14.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie13.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie12.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie11.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie10.cpp" />
+    <ClCompile Include="Zaliczenie\Zadanie9.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie8.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie7.cpp" />
     <ClCompile Include="Zaliczenie\Zadanie6.cpp" />
